@@ -23,6 +23,7 @@ Hi! I'm DeltEnc! This is my github account for developing games and programming 
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />     
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/3/35/FL_Studio_20_Icon.png/revision/latest/scale-to-width-down/1000?cb=20181204192927" />
 <br/>
 
 ### Hit me up here!
