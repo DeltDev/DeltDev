@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 **/
 
 -->
-Hi! I'm DeltEnc! This is my github account for developing games and programming stuff!
+Hi! I'm DeltEnc! This is my github account for developing games and programming stuff! <sub> ~~ ak mw boneka lilligant/gardevoir <3 <3 <3~~ </sub>
+Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 ### Programming Languages and Tools
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
