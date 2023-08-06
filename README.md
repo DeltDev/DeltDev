@@ -30,4 +30,13 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 
 ### Hit me up here!
 <p align="left">
-<a href="https://www.youtube.com/channel/UCLXacNase8jguWrfo28aKzg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/13671/youtube.svg" alt="Java" width="40" style ="padding-right:10px"/>
+<a href="https://www.youtube.com/channel/UCLXacNase8jguWrfo28aKzg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/13671/youtube.svg" alt="Java" width="40" style ="padding-right:10px"/> 
+
+### DeltEnc
+<br/>
+
+### Check out my Devlogs here too!
+<a href="https://www.youtube.com/channel/UClaM9jkvhYADUQ6LgvEHDqA" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/13671/youtube.svg" alt="Java" width="40" style ="padding-right:10px"/>
+
+### DeltDev
+<br/>
