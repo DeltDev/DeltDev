@@ -16,6 +16,7 @@ Hi! I'm DeltEnc! This is my github account for developing games and programming 
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br />
 
 ### Non Programming Tools
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
