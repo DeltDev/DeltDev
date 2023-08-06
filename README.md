@@ -32,7 +32,6 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 <p align="left">
 <a href="https://www.youtube.com/channel/UCLXacNase8jguWrfo28aKzg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/13671/youtube.svg" alt="Java" width="30px" style ="padding-right:10px"/> 
 My main YouTube Channel
-<img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /> deltenc
 <br/>
 
 ### Check out my Devlogs here too!
