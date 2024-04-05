@@ -20,6 +20,7 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <br />
 
 ### Non Programming Tools
@@ -27,7 +28,7 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />     
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/3/35/FL_Studio_20_Icon.png/revision/latest/scale-to-width-down/1000?cb=20181204192927" />
+<img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <br/>
 
 ### Hit me up here!
