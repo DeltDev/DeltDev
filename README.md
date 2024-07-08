@@ -35,7 +35,7 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 
 <img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Three.js" width="30px" style="padding-right:10px; background-color: white; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+<img align="left" alt="Three.js" width="30px" style="padding-right:10px;" src="https://threejs.org/files/2014/03/threejs-boilerplate-0.1.2.jpg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 <br/>
