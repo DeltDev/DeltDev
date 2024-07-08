@@ -31,6 +31,7 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 ### Frameworks and Libraries
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+<br/>
 ### Non Programming Tools
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 <img align="left" alt = "Java" width="30px" style ="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />     
