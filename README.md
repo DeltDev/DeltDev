@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 **/
 
 -->
-Hi! I'm DeltEnc! This is my github account for developing games and programming stuff! <sub>~~ak mw boneka lilligant/gardevoir <3 <3 <3~~</sub>
-Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
+Hi! I'm DeltDev! This is my github account for developing games and programming stuff! 
 
 ### Programming Languages and Tools
 
@@ -27,7 +26,7 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <br/>
 <br/>
 
@@ -37,7 +36,7 @@ Useless fact: My favorite song is ~~Never Gonna Give You Up~~ Yona Yona Dance
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Three.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
+<img align="left" alt="NestJS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <br/>
 <br/>
 
